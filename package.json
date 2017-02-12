@@ -1,0 +1,19 @@
+{
+  "name": "react-helloworld-component",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/madhankumar028/react-helloworld-component.git"
+  },
+  "author": "MadhankumarJ",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/madhankumar028/react-helloworld-component/issues"
+  },
+  "homepage": "https://github.com/madhankumar028/react-helloworld-component#readme"
+}
